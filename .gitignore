@@ -4,6 +4,7 @@ last
 MyFSharpApp
 njs
 input.txt
+testinput.txt
 __pycache__
 .mypy_cache
 
