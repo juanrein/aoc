@@ -5,6 +5,8 @@ MyFSharpApp
 njs
 input.txt
 testinput.txt
+testinput2.txt
+output.txt
 __pycache__
 .mypy_cache
 
