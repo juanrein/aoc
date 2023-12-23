@@ -143,3 +143,4 @@ def part2():
             
 
     print(total)
+
